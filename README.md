@@ -1,2 +1,3 @@
 # Linear_Algebra
-Discrete III
+Discrete III<br>
+I. Introduction to Vectors
